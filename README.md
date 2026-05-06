@@ -7,9 +7,9 @@ A full-stack task management system where users can create projects, assign task
 
 ## 🌐 Live Links
 
-- 🔗 Frontend: https://your-frontend-url.com  
-- 🔗 Backend API: https://your-backend.up.railway.app  
-- 🔗 GitHub Repo: https://github.com/your-username/your-repo  
+- 🔗 Frontend: https://taskmanager-assement.vercel.app/ 
+- 🔗 Backend API: https://taskmanager-assement-backend.onrender.com
+- 🔗 GitHub Repo: 
 
 ---
 
