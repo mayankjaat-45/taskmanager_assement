@@ -9,7 +9,7 @@ A full-stack task management system where users can create projects, assign task
 
 - 🔗 Frontend: https://taskmanager-assement.vercel.app/ 
 - 🔗 Backend API: https://taskmanager-assement-backend.onrender.com
-- 🔗 GitHub Repo: 
+- 🔗 GitHub Repo: https://github.com/mayankjaat-45/taskmanager_assement
 
 ---
 
